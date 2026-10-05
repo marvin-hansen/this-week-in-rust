@@ -1,0 +1,14 @@
+draft/2026-10-07-this-week-in-rust.md
+  h_080fb89ca1f0c4 55-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b1f41df3f52fb2cc9ca38200ffc6254600798412",
+  "prompts": {},
+  "humans": {
+    "h_080fb89ca1f0c4": {
+      "author": "Marvin Hansen <marvin.hansen@gmail.com>"
+    }
+  }
+}
